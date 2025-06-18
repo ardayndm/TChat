@@ -178,8 +178,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Kay\u0131t ol"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -314,8 +314,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -471,8 +471,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u015Eifre.."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -690,8 +690,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Bu email adresi kullan\u0131lamaz."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1102,8 +1102,8 @@ MonoBehaviour:
   m_text: "\u015Euanda sunucuya ula\u015F\u0131lam\u0131yor, l\xFCtfen daha sonra
     tekrar dene."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1396,8 +1396,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Email adresi..
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1532,8 +1532,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Giri\u015F yap"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1689,8 +1689,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Email adresi..
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1948,7 +1948,7 @@ MonoBehaviour:
   m_CaretWidth: 1
   m_ReadOnly: 0
   m_RichText: 1
-  m_GlobalFontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_GlobalFontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_OnFocusSelectAll: 1
   m_ResetOnDeActivation: 1
   m_KeepTextSelectionVisible: 0
@@ -2055,8 +2055,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Kay\u0131t ol"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2191,8 +2191,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2327,8 +2327,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2484,8 +2484,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u015Eifre.."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2820,8 +2820,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Giri\u015F yap"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3200,7 +3200,7 @@ MonoBehaviour:
   m_CaretWidth: 1
   m_ReadOnly: 0
   m_RichText: 1
-  m_GlobalFontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_GlobalFontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_OnFocusSelectAll: 1
   m_ResetOnDeActivation: 1
   m_KeepTextSelectionVisible: 0
@@ -3307,8 +3307,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Bu email adresi kullan\u0131lamaz."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3443,8 +3443,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3779,8 +3779,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Kullan\u0131c\u0131 ad\u0131.."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3967,8 +3967,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4103,8 +4103,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Bu kullan\u0131c\u0131 ad\u0131 al\u0131namaz."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4310,7 +4310,7 @@ MonoBehaviour:
   m_CaretWidth: 1
   m_ReadOnly: 0
   m_RichText: 1
-  m_GlobalFontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_GlobalFontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_OnFocusSelectAll: 1
   m_ResetOnDeActivation: 1
   m_KeepTextSelectionVisible: 0
@@ -4538,8 +4538,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Bu \u015Fifre gerekli parametreleri kar\u015F\u0131lam\u0131yor."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4759,8 +4759,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Bu \u015Fifre gerekli parametreleri kar\u015F\u0131lam\u0131yor."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5029,8 +5029,8 @@ MonoBehaviour:
   m_text: "\u015Euanda sunucuya ula\u015F\u0131lam\u0131yor, l\xFCtfen daha sonra
     tekrar dene."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
-  m_sharedMaterial: {fileID: 8765620915227937905, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
+  m_sharedMaterial: {fileID: -966484180543315481, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5236,7 +5236,7 @@ MonoBehaviour:
   m_CaretWidth: 1
   m_ReadOnly: 0
   m_RichText: 1
-  m_GlobalFontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_GlobalFontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_OnFocusSelectAll: 1
   m_ResetOnDeActivation: 1
   m_KeepTextSelectionVisible: 0
@@ -5414,7 +5414,7 @@ MonoBehaviour:
   m_CaretWidth: 1
   m_ReadOnly: 0
   m_RichText: 1
-  m_GlobalFontAsset: {fileID: 11400000, guid: bbe29efb25b96d24c8985bc128e7712d, type: 2}
+  m_GlobalFontAsset: {fileID: 11400000, guid: 8f4073450e89570459d17309b245d134, type: 2}
   m_OnFocusSelectAll: 1
   m_ResetOnDeActivation: 1
   m_KeepTextSelectionVisible: 0
