@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cfa85285758f4f645b5850bc56ff9f38
+guid: 1a6aa89243f964641ad346e8567c667a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 119780468296556587
-    second: TCHAT_0
+      213: -511782066968376402
+    second: TMods_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +54,7 @@ TextureImporter:
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
-  alphaUsage: 2
+  alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TCHAT_0
+      name: TMods_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b20a8d783bb89a100800000000000000
-      internalID: 119780468296556587
+      spriteID: eab4fefebe8c5e8f0800000000000000
+      internalID: -511782066968376402
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TCHAT_0: 119780468296556587
+      TMods_0: -511782066968376402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
