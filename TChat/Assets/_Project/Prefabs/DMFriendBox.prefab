@@ -313,6 +313,7 @@ GameObject:
   - component: {fileID: 4916610194620340732}
   - component: {fileID: 4278790478088900944}
   - component: {fileID: 901407981371322013}
+  - component: {fileID: 8941296456473170578}
   m_Layer: 5
   m_Name: DMFriendBox
   m_TagString: Untagged
@@ -423,3 +424,19 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &8941296456473170578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7869447899133771194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4005a065b9b04744b5fb210970cdddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DMBoxButton: {fileID: 901407981371322013}
+  DMBoxImageCircle: {fileID: 2314857034348331673}
+  DMBoxUserImage: {fileID: 4034603770000958529}
+  DMBoxUsername: {fileID: 4891614306707586546}
