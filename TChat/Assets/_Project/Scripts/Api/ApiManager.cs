@@ -1,4 +1,6 @@
 public static class ApiManager
 {
-    public const string BaseUrl = "127.0.0.1:8000/tchat/api/";
+    public const string BaseUrl = "http://localhost/tchat/api/";
+    public const string RegisterUrl = "auth/register.php";
+    public const string LoginUrl = "auth/login.php";
 }

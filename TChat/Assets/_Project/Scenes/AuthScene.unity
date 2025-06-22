@@ -3531,6 +3531,7 @@ GameObject:
   - component: {fileID: 1272578618}
   - component: {fileID: 1272578620}
   - component: {fileID: 1272578619}
+  - component: {fileID: 1272578621}
   m_Layer: 5
   m_Name: LoginPanel
   m_TagString: Untagged
@@ -3596,6 +3597,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1272578617}
   m_CullTransparentMesh: 1
+--- !u!114 &1272578621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1272578617}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f585c81a17cde74898d33924034de1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EmailInputField: {fileID: 2097857555}
+  PasswordInputField: {fileID: 1195019297}
+  EmailErrorText: {fileID: 1201854356}
+  PasswordErrorText: {fileID: 1875421890}
+  GlobalErrorText: {fileID: 1974314446}
+  LoginButton: {fileID: 1005395858}
+  RegisterNowButton: {fileID: 373876616}
+  LoginPanel: {fileID: 1272578617}
+  RegisterPanel: {fileID: 1915008918}
 --- !u!1 &1303247725
 GameObject:
   m_ObjectHideFlags: 0
